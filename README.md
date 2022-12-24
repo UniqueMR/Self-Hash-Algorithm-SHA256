@@ -1,6 +1,6 @@
 # self hash algorithm (SHA256)
 
-This is a self-implemented hash algorithm based on the SHA256 standard. This project can achieve encrypting a message into a 256bits hash value.
+This is a self-implemented hash algorithm based on the SHA256 standard. This project can achieve encrypting a message into a 256bits hash value and displaying it as a hex string.
 
 ## Usage
 
